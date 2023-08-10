@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi there, I’m Matze 👋
 
-<!--
-**MatzeKitt/MatzeKitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨🏻‍💻 Senior Web Developer<br>
+🌍 From Stuttgart, Germany<br>
 
-Here are some ideas to get you started:
+#### ❤️ Interests
+* 🤗 Open Source
+* 🐕 Dogs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🤓 Skills
+* WordPress
+* PHP
+* JavaScript
+* React
+* MySQL
+* CSS
+* SCSS
+* macOS
+* Linux
+* Web hosting
+
+#### 🕸️ Projects
+* [Epiphyt](https://epiph.yt/en/)
+* [KittMedia](https://kittmedia.com/en/)
+
+#### 🌐 Socials
+* [Mastodon](https://dewp.space/@Matze)
