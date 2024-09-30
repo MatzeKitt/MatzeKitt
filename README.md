@@ -4,6 +4,7 @@
 🌍 From Stuttgart, Germany<br>
 
 #### ❤️ Interests
+* ♿ Accessibility
 * 🤗 Open Source
 * 🐕 Dogs
 
