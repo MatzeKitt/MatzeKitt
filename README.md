@@ -14,6 +14,7 @@
 * JavaScript
 * React
 * MySQL
+* Unit Testing
 * CSS
 * SCSS
 * macOS
