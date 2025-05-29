@@ -7,23 +7,22 @@
 * ♿ Accessibility
 * 🤗 Open Source
 * 🐕 Dogs
+* 🧠 Smart Home
 
 #### 🤓 Skills
-* WordPress
 * PHP
-* JavaScript
-* React
+* JavaScript, React
 * MySQL
+* WordPress
 * Unit Testing
-* CSS
-* SCSS
-* macOS
-* Linux
+* HTML, CSS, SCSS
+* macOS, Linux
 * Web hosting
 
 #### 🕸️ Projects
 * [Epiphyt](https://epiph.yt/en/)
 * [KittMedia](https://kittmedia.com/en/)
+* [Personal Blog](https://kittsteiner.blog)
 
 #### 🌐 Socials
 * [Mastodon](https://dewp.space/@Matze)
